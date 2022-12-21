@@ -3,7 +3,7 @@ title Current Directory:%~dp0
 echo *******************************************
 echo         OnekeyInstallWindowsStore
 echo              Github@JiuXia2025
-echo           https://blog.puremc.cn
+echo           http://blog.9xia.top
 echo *******************************************
 pause
 powershell Add-AppxPackage -Path %~dp0Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x64__8wekyb3d8bbwe.Appx
